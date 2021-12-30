@@ -1,7 +1,7 @@
 # JsonSettings
 
 Bridger Photonics fork of:
-- nucs/JsonSettings 1.0.7 (branch 1.0.7-bp)
+- Nucs/JsonSettings 1.0.7 (branch 1.0.7-bp)
 
 ### Feature addition
 #### No save on load
