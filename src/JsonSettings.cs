@@ -371,7 +371,6 @@ namespace nucs.JsonSettings {
             _emptyfile:
             o.OnAfterLoad();
             o.FileName = filename;
-            o.Save(filename);
 
             return o;
         }
